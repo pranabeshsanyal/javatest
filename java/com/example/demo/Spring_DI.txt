@@ -1,0 +1,10 @@
+go through all these classes, find the dependent objects.
+create all dependent object either by using setter injection, constructor injection or field injection.
+
+also find the sample main class to test all three classes.
+both car, electric engine and CombustionEngine in the main class.
+
+you can refere my example for more details.
+
+you can use either spring boot or spring.
+[ the process is different if you are using spring ]
