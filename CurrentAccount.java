@@ -1,5 +1,5 @@
 package bankApplication;
-/*test*/
+
 public class CurrentAccount extends Account{
 	public boolean overdraft = false;
 	Account a = new Account();
